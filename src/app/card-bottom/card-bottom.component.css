@@ -1,0 +1,30 @@
+.card-item {
+  background-color: #333333;
+  border: 2px solid #333333;
+  padding: 5px;
+  font-size: 30px;
+  text-align: center;
+  height: 300px;
+  width: 25%;
+  margin: 8px;
+  border-radius: 5px;
+}
+
+.card {
+  background-color: #000;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+.card-body {
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.card-top {
+  height: 30%;
+}
+
+.card-bottom {
+  height: 65%;
+}

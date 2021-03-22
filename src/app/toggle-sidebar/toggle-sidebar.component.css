@@ -1,0 +1,8 @@
+.alg-rt {
+  width: 100%;
+  place-content: flex-end;
+}
+
+.alg-sf{
+  align-self: center;
+}

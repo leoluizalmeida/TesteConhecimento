@@ -1,0 +1,21 @@
+.card-item {
+  background-color: #333333;
+  border: 2px solid #333333;
+  padding: 8px;
+  font-size: 30px;
+  text-align: center;
+  width: 19%;
+  height: 400px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.card {
+  background-color: #000;
+  height: 49%;
+}
+
+.card-body {
+  margin: 1px;
+  border-radius: 10px;
+}
